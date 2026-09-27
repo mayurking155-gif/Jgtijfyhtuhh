@@ -1,0 +1,15 @@
+{
+    "7949873756": {
+        "unique_device_id": "Google|577025fb-6ea9-4ae4-a68e-b1f83fbe0904",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1440,
+        "screen_height": 2400,
+        "screen_dpi": "356",
+        "memory": 3018,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3088 | 7",
+        "client_ip": "133.207.57.70"
+    }
+}
